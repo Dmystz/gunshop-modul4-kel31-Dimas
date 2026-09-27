@@ -76,7 +76,7 @@ const GUNS = [
     type: 'Pistol' ,
     caliber: '.22 LR' ,
     price: 700,
-    image: '/guns/p250.jgp' ,
+    image: '/guns/p250.jpg' ,
     description:
       'SIG Sauer P250 adalah pistol semi-otomatis modular buatan SIG Sauer yang diperkenalkan pada tahun 2007, serta menjadi senjata pistol populer seharga $300 dalam game Counter-Strike 2 (CS2).'
   }
