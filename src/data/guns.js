@@ -53,6 +53,24 @@ const GUNS = [
     description:
       'The other pump gun. Twin action bars, a simple safety on the tang, and a price that leaves money for ammunition.',
   },
+  {
+    name: 'Barrett M82' ,
+    type: 'Sniper' ,
+    caliber: '.50 BMG' ,
+    price: 9000,
+    image: 'barret.avif' ,
+    description:
+      'The Barrett M82 is a recoil-operated, semi-automatic anti-materiel rifle chambered in the powerful .50 BMG (12.7x99mm) cartridge.'
+  },
+  {
+    name: 'M4A1' ,
+    type: 'Rifle' ,
+    caliber: '.223 remington' ,
+    price: 1600,
+    image: '/guns/m4a1.jpeg' ,
+    description:
+      'The M4A1 is a lightweight, gas-operated, air-cooled, magazine-fed, selective-rate carbine chambered for the 5.56×45mm NATO cartridge.'
+  }
 ]
 
 export default GUNS
