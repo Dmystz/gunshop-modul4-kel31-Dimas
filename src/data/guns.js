@@ -70,6 +70,15 @@ const GUNS = [
     image: '/guns/m4a1.jpeg' ,
     description:
       'The M4A1 is a lightweight, gas-operated, air-cooled, magazine-fed, selective-rate carbine chambered for the 5.56×45mm NATO cartridge.'
+  },
+  {
+    name: 'P250' ,
+    type: 'Pistol' ,
+    caliber: '.22 LR' ,
+    price: 700,
+    image: '/guns/p250.jgp' ,
+    description:
+      'SIG Sauer P250 adalah pistol semi-otomatis modular buatan SIG Sauer yang diperkenalkan pada tahun 2007, serta menjadi senjata pistol populer seharga $300 dalam game Counter-Strike 2 (CS2).'
   }
 ]
 
