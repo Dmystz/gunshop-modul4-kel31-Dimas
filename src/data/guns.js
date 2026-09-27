@@ -58,7 +58,7 @@ const GUNS = [
     type: 'Sniper' ,
     caliber: '.50 BMG' ,
     price: 9000,
-    image: '/guns/Barrett.jpg' ,
+    image: '/guns/barret.avif' ,
     description:
       'The Barrett M82 is a recoil-operated, semi-automatic anti-materiel rifle chambered in the powerful .50 BMG (12.7x99mm) cartridge.'
   },
